@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer_logo">
         <CityLogo width="70px" height="70px" link={true} linkTo="/" />
         <div className="footer_discl">
-          Manchester City 2018. All rights reserved.{" "}
+          Manchester City 2018. All rights reserved.
         </div>
       </div>
     </footer>
